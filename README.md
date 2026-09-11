@@ -99,7 +99,7 @@ Invalid requests return a `400 Bad Request` with a field-level error message. Re
 
 ```bash
 git clone https://github.com/suresh-1219/placement-management-system.git
-cd Placement_Management
+cd placement-management-system
 
 set DB_PASSWORD=your_db_password
 
